@@ -54,7 +54,7 @@ $translations = [
         'gearsdigital.enhanced-toolbar-link-dialog.external' => 'Lien externe',
         'gearsdigital.enhanced-toolbar-link-dialog.empty' => 'Aucune page trouvée',
         'gearsdigital.enhanced-toolbar-link-dialog.target.title' => 'Cible du lien',
-        'gearsdigital.enhanced-toolbar-link-dialog.target.help' => 'Spécifiez où ouvrir le document lié.',
+        'gearsdigital.enhanced-toolbar-link-dialog.target.help' => 'Définir l’ouverture du lien.',
         'gearsdigital.enhanced-toolbar-link-dialog.target.blank' => 'Blank',
         'gearsdigital.enhanced-toolbar-link-dialog.target.self' => 'Self',
         'gearsdigital.enhanced-toolbar-link-dialog.target.top' => 'Top',
@@ -62,7 +62,7 @@ $translations = [
         'gearsdigital.enhanced-toolbar-link-dialog.title.title' => 'Titre',
         'gearsdigital.enhanced-toolbar-link-dialog.anchor.title' => 'Ancre (#)',
         'gearsdigital.enhanced-toolbar-link-dialog.tab.order' => '0',
-        'gearsdigital.enhanced-toolbar-link-dialog.advanced' => 'Voir les paramètres avancés',
+        'gearsdigital.enhanced-toolbar-link-dialog.advanced' => 'Show advanced settings',
     ],
     'nl' => [
         'gearsdigital.enhanced-toolbar-link-dialog.internal' => 'Interne Link',
